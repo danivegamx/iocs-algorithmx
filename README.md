@@ -37,7 +37,7 @@ Participants are free to use the programming language they want. (JS/Node, Pytho
 
 | #    | topic               | date   | owner               | moderator           |
 | ---- | ------------------- | ------ | ------------------- | ------------------- |
-| 00   | Big(O) Notation     |  TBD   |         TBD         |         TBD         |
+| 00   | Big(O) Notation     |  TBD   | Daniel Vega         |         TBD         |
 | 01   | Arrays              |  TBD   |         TBD         |         TBD         |
 | 02   | HashTables          |  TBD   |         TBD         |         TBD         |
 | 03   | Resizable Arrays    |  TBD   |         TBD         |         TBD         |
