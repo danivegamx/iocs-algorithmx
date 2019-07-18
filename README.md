@@ -5,7 +5,7 @@ IO Connect Algorithms/Data Structures/Design Patterns study group.
 ### How it works
 
 * We have defined a learning path combining some books (listed at the bottom) to follow.
-* Every <TBD>, a problem will be presented, according to the next topic listed in the learning path.
+* Every Tuesday, a problem will be presented, according to the next topic listed in the learning path.
 * A volunteer will be the owner of the topic, and will be responsible of defining the problem and the theoretical background.
 * Developers will have the whole week/weeks to study the topic and to solve the problem with the most optimal solution.
 * As a Developer, you should create your own branch from master repository `$ git checkout -b <my-branch-name>`
