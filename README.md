@@ -38,9 +38,9 @@ Participants are free to use the programming language they want. (JS/Node, Pytho
 | #    | topic               | date   | owner               | moderator           |
 | ---- | ------------------- | ------ | ------------------- | ------------------- |
 | 00   | Big(O) Notation     | Jul 23 | Daniel Vega         |     Flor Marquez    |
-| 01   | Arrays              |  TBD   |         TBD         |         TBD         |
-| 02   | HashTables          |  TBD   |         TBD         |         TBD         |
-| 03   | Resizable Arrays    |  TBD   |         TBD         |         TBD         |
+| 01   | Arrays              |  TBD   | Flor Marquez        |     Abel Marquez    |
+| 02   | HashTables          |  TBD   | Abel Marquez        |    Christian Lau    |
+| 03   | Resizable Arrays    |  TBD   | Christian Lau       |         TBD         |
 | 04   | Linked List         |  TBD   |         TBD         |         TBD         |
 | 05   | Queues              |  TBD   |         TBD         |         TBD         |
 | 06   | Stacks              |  TBD   |         TBD         |         TBD         |
