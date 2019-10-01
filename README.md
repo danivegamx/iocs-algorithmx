@@ -41,7 +41,7 @@ Participants are free to use the programming language they want. (JS/Node, Pytho
 | 01   | Arrays              |  TBD   | Flor Marquez        |     Christian Lau   |
 | 02   | HashTables          |  TBD   | Christian Lau       |     Andrea Munoz    |
 | 03   | Resizable Arrays    |  TBD   | Andrea Munoz        |    Marco Andrade    |
-| 04   | Linked List         |  TBD   | Marco Andrade       |         TBD         |
+| 04   | Linked List         |  TBD   | Marco Andrade       |    Marisol Castro   |
 | 05   | Queues              |  TBD   |         TBD         |         TBD         |
 | 06   | Stacks              |  TBD   |         TBD         |         TBD         |
 | 07   | Recursion           |  TBD   |         TBD         |         TBD         |
